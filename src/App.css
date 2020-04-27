@@ -28,3 +28,8 @@
 .card img {
   max-width: 100%;
 }
+
+.favorites ul {
+  background-color: darkorange;
+  display: flex
+}
